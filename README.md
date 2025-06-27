@@ -1,4 +1,4 @@
-# ML-Biomarker-CRLM-Machine-Learning-Driven-Biomarker-Discovery-for-Colorectal-Cancer-Liver-Metastasis
+# Machine-Learning-Driven-Biomarker-Discovery-for-Colorectal-Cancer-Liver-Metastasis
 Programming language: R (>=4.4.1)
 Project Overview
 This repository implements a reproducible workflow for genomic, transcriptomic, and clinical data integration using machine learning algorithms to discover and validate biomarkers for colorectal cancer liver metastasis (CRLM).
