@@ -46,6 +46,7 @@ Full dependency list and version info is provided via sessionInfo.txt in the rep
 - Public transcriptomic datasets (TCGA, GEO: accession numbers provided in Supplementary Table S1,from manuscript)
 - In-house tissue/serum validation data (details and access: see manuscript Methods/Data Availability)
 - Clinical and metabolomics metadata (see manuscript for details)
+- Processing data can be download at https://pan.baidu.com/s/1uSALbfSTgr5UhY658mgFug, code: wnle
 
 Note: Data use is for academic and non-commercial research only, in accordance with original database licenses.
 
